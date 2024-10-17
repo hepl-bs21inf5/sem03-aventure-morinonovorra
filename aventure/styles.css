@@ -1,0 +1,26 @@
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+    font-family : Tahoma;
+  }
+  p {
+    font-size: 20px;
+  }
+
+h1 {
+    color : blue;
+}
+
+a {
+    color : red;
+    font-size : 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    color : purple;
+}
+
+li {
+    list-style-type : square;
+}
